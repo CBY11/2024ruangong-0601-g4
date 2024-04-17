@@ -1,0 +1,14 @@
+
+{"id":11,
+"name":"ccc",
+"email":"123@qq.com",
+"projects":
+[{"projectId":11,
+"projectName":"task1",
+"projectIntro":"",
+"state":"B",
+"deadline":"2024-4-15",
+"managerId":11,
+"managerName":"ccc",
+"access":"A"}],
+"status":"A","topic":"B"}
